@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+sentence-transformers
+sqlite-vec
+ollama
+langchain-text-splitters
+python-dotenv
+
