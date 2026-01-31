@@ -71,8 +71,8 @@ mini-rag-bot/
 
 ```
 ### Step 1: Clone Repository & Add Knowledge Documents
-git clone https://github.com/SaraswathiAnalytics/mini-rag-bot.git
-cd mini-rag-bot
+- git clone https://github.com/SaraswathiAnalytics/mini-rag-bot.git
+- cd mini-rag-bot
 
 Place **3–5 short `.md` or `.txt` files** inside `data/docs/`:
 
@@ -118,5 +118,6 @@ Open Telegram application/web app & search for your bot username
 - /ask What is the refund policy?
 - /ask How long does shipping take?
 - /ask What user roles are supported?
+
 
 
